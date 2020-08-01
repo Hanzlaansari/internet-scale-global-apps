@@ -41,6 +41,12 @@ We have selected these best of the breed multicloud serverless technologies to l
 
 Other Resources on Serverless Architecture, Design Patterns and Best Practices 
 
+Comparison:
+
+[Google Cloud Run vs. AWS Lambda: Is Cloud Run a Serverless Game Changer? Part 1](https://iamondemand.com/blog/google-cloud-run-vs-aws-lambda-is-cloud-run-a-serverless-game-changer-part-1/)
+
+[Google Cloud Run vs. AWS Lambda: Performance Benchmarks (Part 2)](https://iamondemand.com/blog/google-cloud-run-vs-aws-lambda-performance-benchmarks-part-2/)
+
 
 Notes:
 
