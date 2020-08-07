@@ -17,9 +17,19 @@ We have selected these best of the breed multicloud serverless technologies to l
 
 [Serverless FaunaDB](https://fauna.com/)
 
+[Firebase Authentication](https://firebase.google.com/docs/auth)
+
 [Rethinking Serverless Architectures With Eventbridge](https://blog.thundra.io/rethinking-serverless-architectures-with-eventbridge)
 
 [EventBridge Storming — How to build state-of-the-art Event-Driven Serverless Architectures](https://medium.com/serverless-transformation/eventbridge-storming-how-to-build-state-of-the-art-event-driven-serverless-architectures-e07270d4dee)
+
+[Choreography vs Orchestration in the land of serverless](https://theburningmonk.com/2020/08/choreography-vs-orchestration-in-the-land-of-serverless/)
+
+[AWS Well-Architected Framework](http://d0.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
+
+[Google Cloud's Architecture Framework](https://cloud.google.com/architecture/framework)
+
+[Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/)
 
 [Amazon EventBridge](https://aws.amazon.com/eventbridge/)
 
