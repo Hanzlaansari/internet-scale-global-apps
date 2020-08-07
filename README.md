@@ -19,6 +19,8 @@ We have selected these best of the breed multicloud serverless technologies to l
 
 [Firebase Authentication](https://firebase.google.com/docs/auth)
 
+[Firebase authentication vs AWS Cognito](https://stackoverflow.com/questions/40649605/firebase-authentication-vs-aws-cognito)
+
 [Rethinking Serverless Architectures With Eventbridge](https://blog.thundra.io/rethinking-serverless-architectures-with-eventbridge)
 
 [EventBridge Storming — How to build state-of-the-art Event-Driven Serverless Architectures](https://medium.com/serverless-transformation/eventbridge-storming-how-to-build-state-of-the-art-event-driven-serverless-architectures-e07270d4dee)
